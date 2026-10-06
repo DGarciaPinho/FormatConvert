@@ -1,0 +1,4 @@
+/build*/
+/examples/*.docx
+/examples/*.txt
+__pycache__/
